@@ -159,9 +159,9 @@ main > article > p > strong {
 
 .fundo {
     display: block;
-    background-image: url(imagens/000.jpg);
+    background-image: url(imagens/abstrato.jpg);
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: left left;
     background-size: cover;
 }
 
