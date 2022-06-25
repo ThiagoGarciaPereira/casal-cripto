@@ -92,6 +92,7 @@ h2 {
     color: var(--cor);
     font-family: var(--font-terceira);
     background-image: linear-gradient(to right, #78C5F5, #0068A8);
+    margin: 20px;
 }
 
 .logotipo {
@@ -105,8 +106,8 @@ h2 {
 img {
     display: block;
     margin: auto;
-    width: 40%;
-    height: 40%;
+    width: 30%;
+    height: 30%;
 }
 
 .imagemgrande {
@@ -115,6 +116,13 @@ width: 100%;
 
 .fotoum {
     padding-top: 20px;
+}
+
+.nft {
+    width: auto;
+    height: auto;
+    padding: 0px;
+    box-shadow: 3px 3px 3px 0px rgba(0, 0, 0, 0.514);
 }
 
 legend {
@@ -159,7 +167,7 @@ main > article > p > strong {
 
 .fundo {
     display: block;
-    background-image: url(imagens/abstrato.jpg);
+    background-image: url(imagens/abstrato0.jpg);
     background-repeat: no-repeat;
     background-position: left left;
     background-size: cover;
