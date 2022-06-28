@@ -120,6 +120,7 @@ aside {
 aside > ul {
     columns: 2;
     list-style-position: inside;
+    list-style-type: '\2714\00A0';
 }
 
 img {
