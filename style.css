@@ -90,9 +90,10 @@ h2 {
     font-size: 25px;
     font-weight: lighter;
     color: var(--cor);
-    font-family: var(--font-terceira);
+    font-family: var(--fonte-segundaria);
     background-image: linear-gradient(to right, #78C5F5, #0068A8);
-    margin: 20px;
+    margin: 20px -20px;
+    padding-left: 15px;
 }
 
 .logotipo {
