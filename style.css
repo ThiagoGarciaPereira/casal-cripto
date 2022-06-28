@@ -92,8 +92,14 @@ h2 {
     color: var(--cor);
     font-family: var(--fonte-segundaria);
     background-image: linear-gradient(to right, #78C5F5, #0068A8);
-    margin: 20px -20px;
+    margin: 20px;
     padding-left: 15px;
+}
+
+.h3 {
+    font-family: var(--fonte-segundaria);
+    padding: 20px;
+    font-size: 25px;
 }
 
 .logotipo {
@@ -102,6 +108,18 @@ h2 {
     display: inline;
     width: 7%;
     height: 7%;
+}
+
+aside {
+    background-color: var(--cor3);
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.555);
+}
+
+aside > ul {
+    columns: 2;
+    list-style-position: inside;
 }
 
 img {
