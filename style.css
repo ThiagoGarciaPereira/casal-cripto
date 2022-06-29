@@ -138,6 +138,11 @@ width: 100%;
     padding-top: 20px;
 }
 
+.quemsomos {
+    border-radius: 50%;
+    box-shadow: 3px 3px 3px 0px rgba(0, 0, 0, 0.514);
+}
+
 .nft {
     width: auto;
     height: auto;
