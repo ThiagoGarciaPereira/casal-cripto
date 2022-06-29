@@ -48,7 +48,7 @@ nav {
     color: var(--cor0);
     font-family: var(--font-terceira);
     margin-right: 20px;
-    padding-top: 20px;
+    padding: 20px;
 }
 
 nav > a {
@@ -56,7 +56,7 @@ nav > a {
     text-decoration: none;
     padding-right: 5px;
     text-shadow: 0.05em 0.05em 0.05em var(--cor);
-    font-size: 20px;
+    font-size: 25px;
 }
 
 nav > a:hover {
